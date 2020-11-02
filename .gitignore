@@ -1,3 +1,14 @@
+# otter-grader
+.OTTER_*
+
+# okpy generated files
+.ok_*
+
+# Jupyter Notebook Duplicates
+*Copy*.ipynb
+
+.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
